@@ -1,0 +1,8 @@
+Final Expense change to "Pay Per Week"
+Others change to "Pay Per Month"
+
+
+select days check of less than 7 days regading contract
+
+
+after that submit leads should be allow after 2 days
